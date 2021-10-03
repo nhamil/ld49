@@ -6,6 +6,8 @@ Uh oh! You were astral projecting and the connection to your body was severed! A
 
 You can use the arrow keys to move and spacebar to perform actions. 
 
+![Gameplay](res/images/screenshot1.png)
+
 ## How to Play 
 
 ### Windows 
