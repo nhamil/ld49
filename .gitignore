@@ -1,0 +1,8 @@
+.settings/
+bin/
+jars/
+.classpath
+.project
+AstralInstability.exe
+AstralInstability.jar
+ld49.jar
