@@ -12,11 +12,11 @@ You can use the arrow keys to move and spacebar to perform actions.
 
 ### Windows 
 
-Download `AstralInstability.exe` from the releases. 
+Download `AstralInstability_Windows.zip` from the releases, extract the zip file and run `AstralInstability.exe`. 
 
 ### Windows, Linux, and Mac 
 
-Download `AstralInstability.jar` from the releases. In a terminal, navigate to your downloads directory and type `java -jar AstralInstability.jar` to play. Note that you must have Java 7+ installed. Alternatively, you can double click the jar file on Windows (and on Linux after marking the file as executable). 
+Download `AstralInstability_CrossPlatform.zip` from the releases and extract the zip file. In a terminal, navigate to the extracted directory and type `java -jar AstralInstability.jar` to play. Note that you must have Java 7+ installed. Alternatively, you can double click the jar file on Windows (and on Linux after marking the file as executable). 
 
 Mac support has not been tested. 
 
